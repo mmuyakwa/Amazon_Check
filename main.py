@@ -6,7 +6,7 @@ import os
 import smtplib
 import time
 from time import gmtime, strftime
-import mysql.connector
+import pymysql.cursors
 import requests
 from bs4 import BeautifulSoup
 
@@ -17,7 +17,7 @@ config = configparser.ConfigParser()
 config.read(iniFile)
 
 # Connect to MySQL-Server with info from settings.ini
-mydb = mysql.connector.connect(
+mydb = pymysql.connect(
   host=config['DB']['host'],
   user= config['DB']['user'],
   passwd=config['DB']['passwd'], 

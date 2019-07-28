@@ -8,3 +8,5 @@ CREATE TABLE `links` (
   PRIMARY KEY (`id`),
   UNIQUE KEY `link_UNIQUE` (`link`)
 ) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+-- ALTER USER 'db_user'@'%' IDENTIFIED WITH mysql_native_password BY "the_password";
