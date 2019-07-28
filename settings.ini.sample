@@ -1,0 +1,14 @@
+[DB]
+host = mysql_server
+user = mysql_user
+passwd = mysql_passwd
+database = mysql_database
+
+[Email]
+host = smtp.gmail.com
+port = 587
+username = your_email@gmail.com
+password = gmail_passwd
+
+[EmailTo]
+email = email_to@gmail.com
