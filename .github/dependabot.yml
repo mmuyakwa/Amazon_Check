@@ -5,6 +5,6 @@ version: 2
 updates:
   # Configuration for npm
   - package-ecosystem: "pip"
-    directory: "/"
+    directory: "."
     schedule:
       interval: "daily"
