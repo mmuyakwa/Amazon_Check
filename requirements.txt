@@ -1,5 +1,5 @@
 beautifulsoup4==4.12.3
-bs4==0.0.1
+bs4==0.0.2
 certifi==2023.11.17
 chardet==5.2.0
 configparser==6.0.0
