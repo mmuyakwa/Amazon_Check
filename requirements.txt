@@ -4,7 +4,7 @@ certifi==2024.2.2
 chardet==5.2.0
 configparser==7.0.0
 idna==3.7
-protobuf==5.26.1
+protobuf==5.27.0
 PyMySQL==1.1.1
 requests==2.32.0
 six==1.16.0
