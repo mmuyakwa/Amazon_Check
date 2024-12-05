@@ -7,6 +7,6 @@ idna==3.10
 protobuf==5.29.0
 PyMySQL==1.1.1
 requests==2.32.3
-six==1.16.0
+six==1.17.0
 soupsieve==2.6
 urllib3==2.2.3
