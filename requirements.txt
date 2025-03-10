@@ -2,7 +2,7 @@ beautifulsoup4==4.13.3
 bs4==0.0.2
 certifi==2025.1.31
 chardet==5.2.0
-configparser==7.1.0
+configparser==7.2.0
 idna==3.10
 protobuf==5.29.3
 PyMySQL==1.1.1
