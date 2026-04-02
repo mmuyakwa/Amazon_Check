@@ -1,7 +1,7 @@
 beautifulsoup4==4.14.3
 bs4==0.0.2
 certifi==2026.2.25
-chardet==7.3.0
+chardet==7.4.0.post2
 configparser==7.2.0
 idna==3.11
 protobuf==7.34.1
