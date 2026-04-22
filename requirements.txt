@@ -3,7 +3,7 @@ bs4==0.0.2
 certifi==2026.2.25
 chardet==7.4.2
 configparser==7.2.0
-idna==3.11
+idna==3.12
 protobuf==7.34.1
 PyMySQL==1.1.2
 requests==2.33.1
